@@ -1,0 +1,8 @@
+v2019.04
+kernel 4.19. 
+ubuntu, 18.04.1 a .5
+
+
+git checkout u
+
+git checkout v2019.04 -b tmp
